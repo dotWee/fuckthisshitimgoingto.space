@@ -2,6 +2,10 @@
 
 Sourcecode of [fuckthisshitimgoingto.space](fuckthisshitimgoingto.space).
 
+## Screenshot
+
+<img src="screenshot.png" height="400px"/>
+
 ## License
 
 Copyright (c) 2015 Lukas 'dotwee' Wolfsteiner
